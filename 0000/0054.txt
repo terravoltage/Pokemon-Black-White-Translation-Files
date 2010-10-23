@@ -81,10 +81,10 @@ Repel
 Sun Stone
 Moon Stone
 Fire Stone
-Thunderstone
+Thunder Stone
 Water Stone
 Leaf Stone
-TinyMushroom
+Tiny Mushroom
 Big Mushroom
 Pearl
 Big Pearl
@@ -115,7 +115,7 @@ Griseous Orb
 ???
 ???
 Aqua Cassette
-Lightning Cassette
+Zap Cassette
 Blaze Cassette
 Freeze Cassette
 ???
@@ -238,7 +238,7 @@ Light Ball
 Soft Sand
 Hard Stone
 Miracle Seed
-BlackGlasses
+Black Glasses
 Black Belt
 Magnet
 Mystic Water
@@ -246,7 +246,7 @@ Sharp Beak
 Poison Barb
 NeverMeltIce
 Spell Tag
-TwistedSpoon
+Twisted Spoon
 Charcoal
 Dragon Fang
 Silk Scarf
@@ -462,7 +462,7 @@ Coupon 1
 Coupon 2
 Coupon 3
 Storage Key
-SecretPotion
+Secret Potion
 Vs. Recorder
 Gracidea
 Secret Key
@@ -475,7 +475,7 @@ SlowpokeTail
 Clear Bell
 Card Key
 Basement Key
-SquirtBottle
+Squirt Bottle
 Red Scale
 Lost Item
 Pass
@@ -543,8 +543,8 @@ Balloon
 Red Card
 Bull's Eye
 Pressure Band
-Bulb
-Rechargeable Battery
+Plant Bulb
+Recharge Cell
 Escape Button
 Fire Jewel
 Water Jewel
@@ -578,17 +578,17 @@ Dream Ball
 Poké-Toy
 Goods Case
 Dragon Bone
-Fragrant Mushroom
+FragrantMushroom
 Huge Gold Orb
 Round Pearl
 Comet Piece
-Ancient Bronze Coin
-Ancient Silver Coin
-Ancient Gold Coin
-Ancient Vase
-Ancient Bracelet
-Ancient Statue
-Ancient Crown
+Old Bronze Coin
+Old Silver Coin
+Old Gold Coin
+Old Vase
+Old Bracelet
+Old Statue
+Old Crown
 Hiun Ice-cream
 Dire Hit 2
 X Speed 2
@@ -620,8 +620,8 @@ TM93
 TM94
 TM95
 Live Caster
-God Stone
-Delivered Goods 1
-Delivered Goods 2
-Delivered Goods 3
+Holy Stone
+DeliveredGoods1
+DeliveredGoods2
+DeliveredGoods3
 Live Caster
